@@ -1,0 +1,1 @@
+C:\\Applications\\dotnet-sdk-10.0.201\\dotnet.exe %*
