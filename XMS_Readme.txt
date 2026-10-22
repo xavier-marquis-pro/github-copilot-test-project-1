@@ -1,6 +1,9 @@
 Voilà un projet généré avec github copilot en 5h : 
-- 1 frontend servi par un serveur asp.net qui écoute sur le port 5000
-- 1 backend servi par un serveur asp.net qui écoute sur le port 5000
+
+Il s'agit d'un projet ASP.NET Core (un frontend sans pages aspx et backend servi par le framework web ASP.NET Core ).
+
+  - 1 frontend servi par un serveur asp.net qui écoute sur le port 5000
+  - 1 backend servi par un serveur asp.net qui écoute sur le port 5000
 
 J'ai du faire un .cmd  dotnet10.cmd  qui pointe sur mon install dotnet10 locale car je n'ai pas les droits d'admin.
 Comme dotnet 8 est installé dans "c:\Program Files", changer le PATH des variables systemes de mon compte n'y peut rien 
